@@ -1,7 +1,5 @@
 GUID b1f408f3c2ff419ba5a96700ba15c138
 
-
-
 Type Glasses
 Rarity Mythical
 Useable Clothing
@@ -17,7 +15,7 @@ Beard
 Vision Military
 Nightvision_Allowed_In_ThirdPerson true
 Nightvision_Fog_Intensity 0
-Nightvision_Color #018500
+Nightvision_Color #20a000
 
 Proof_Water
 

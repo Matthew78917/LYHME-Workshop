@@ -12,6 +12,9 @@ Hair
 Beard
 
 Vision Military
+Nightvision_Allowed_In_ThirdPerson true
+Nightvision_Fog_Intensity 0
+Nightvision_Color #20a000
 
 Exclude_From_Master_Bundle
 
